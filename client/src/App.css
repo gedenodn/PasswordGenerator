@@ -1,0 +1,49 @@
+.app-container {
+    text-align: center;
+    margin: 50px auto;
+    padding: 20px;
+    max-width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff8e1;
+  }
+  
+  h1 {
+    color: #ff6f00; 
+  }
+  
+  .generated-password {
+    font-size: 18px;
+    margin: 15px 0;
+    color: #333; 
+  }
+  
+  .password-strength {
+    color: #555;
+  }
+  
+  label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  input {
+    padding: 5px;
+    margin-top: 5px;
+  }
+  
+  button {
+    background-color: #4caf50; 
+    color: #fff; 
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #45a049; 
+  }
+  
